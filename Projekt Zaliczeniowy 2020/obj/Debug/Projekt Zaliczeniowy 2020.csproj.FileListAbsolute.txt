@@ -1,0 +1,76 @@
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csprojAssemblyReference.cache
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Login.resources
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csproj.GenerateResource.cache
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.exe.config
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.exe
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.pdb
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Properties.Resources.resources
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.exe
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.pdb
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.dll
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.dll
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.pdb
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.dll.config
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.xml
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csproj.CopyComplete
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.CreateAccount.resources
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.GameMenu.resources
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\SpaceUIControls.dll
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\SpaceUIControls.pdb
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Ranking.resources
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.ForgotPasswordForm.resources
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Home.resources
+C:\Users\bedna_nxjdvf7\source\repos\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Settings.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.exe.config
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.exe
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.pdb
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\SpaceUIControls.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.pdb
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.dll.config
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\SpaceUIControls.pdb
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.xml
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csprojAssemblyReference.cache
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.CreateAccount.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.ForgotPasswordForm.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.GameMenu.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Home.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Login.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Properties.Resources.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Ranking.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Settings.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csproj.GenerateResource.cache
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csproj.CopyComplete
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.exe
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.pdb
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.exe.config
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.exe
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\Projekt Zaliczeniowy 2020.pdb
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\SpaceUIControls.dll
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.pdb
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\DataAccessLayer.dll.config
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\SpaceUIControls.pdb
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.xml
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csprojAssemblyReference.cache
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.CreateAccount.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.ForgotPasswordForm.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.GameMenu.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Home.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Login.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Properties.Resources.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Ranking.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt_Zaliczeniowy_2020.Settings.resources
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csproj.GenerateResource.cache
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csproj.CoreCompileInputs.cache
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.csproj.CopyComplete
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.exe
+C:\Users\bedna_nxjdvf7\OneDrive\Pulpit\Weronika\Projekty\Projekt Zaliczeniowy 2020\Projekt Zaliczeniowy 2020\obj\Debug\Projekt Zaliczeniowy 2020.pdb
